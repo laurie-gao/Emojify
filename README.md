@@ -41,6 +41,6 @@ Using a pre-trained 50-dimensional glove embedding layer and LSTM
 
 Note: test in this case denotes the validation set
 
-Due to the lack of training examples and the nature of the tweets used (there is a low correlation between the tweets and emojis), the model could not achieve a high accuracy on the validation set. Although the accuracy increased, the loss for the validation decreased, which may imply that the model is less confident with its predictions. 
+Due to the lack of training examples and the nature of the tweets used (there is a low correlation between the tweets and emojis), the model could not achieve a high accuracy on the validation set. Although the accuracy increased, the loss for the validation also increased, which may imply that the model is less confident with its predictions. 
 
 
