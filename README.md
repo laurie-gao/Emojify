@@ -1,12 +1,12 @@
 ## Hello 😄
 
-In this small NLP project, transfer learning with Google AI's BERT model is used to classify twitter tweets into one of five classes of sentiments. 
+In this small NLP project, transfer learning with Google AI's BERT model is used to classify twitter tweets into one of five classes of sentiments. See [Model2.ipynb](https://github.com/laurie-gao/Emojify/blob/master/Model2.ipynb) for updated model.
 
 | Input | Output  | 
 | :---:   | :-: | 
 | I just wanna get out of the friendzone | 🥺 |
 
-Results are presented in results.csv
+Predictions of validation data are presented in [test_results.csv](https://github.com/laurie-gao/Emojify/blob/master/results/test_results.csv)
 
 ## Where the data came from
 
